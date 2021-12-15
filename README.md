@@ -1,2 +1,2 @@
-# OWL and JSON-LD (JSON for Linking Data)
+# JSON-LD (JSON for Linking Data)
 Temporary repository
